@@ -2,7 +2,7 @@
 ###### I have learnt the difference bwtween Git and GitHub 
 
 
-| ####Git                                       |   ####GitHub                                  |  
+| #### Git                                       |   #### GitHub                                  |  
 | ---------------------------------------------:|-----------------------------------------------  |
 | Distributed version control system            |Web-based hosting service for Git repositories | 
 | Provides local version control on your machine|Provides a remote repository for storing code    |
